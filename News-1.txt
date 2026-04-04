@@ -1,1 +1,15 @@
-Test
+===NEWS===
+title: Обновление 3.0 — AI революция
+date: 2026-01-20
+image: https://alpha.aniland.workers.dev/images/info/update1.png
+---
+**Грандиозное обновление!** :rocket: :sparkles:
+
+Что нового:
+• Интеграция GPT-4 Turbo
+• 15 новых AI моделей
+• Голосовой синтез
+• Генерация DALL-E 3
+
+Спасибо за поддержку! :heart:
+===END===
