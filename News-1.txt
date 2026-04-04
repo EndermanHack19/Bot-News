@@ -10,5 +10,6 @@ image: https://alpha.aniland.workers.dev/images/info/update1.png
 • 15 новых AI моделей
 • Голосовой синтез
 • Генерация DALL-E 3
-Спасибо за поддержку! :heart:
+
+- Спасибо за поддержку! :heart:
 ===END===
