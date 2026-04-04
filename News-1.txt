@@ -9,7 +9,7 @@ image: https://alpha.aniland.workers.dev/images/info/update1.png
 • Интеграция GPT-4 Turbo
 • 15 новых AI моделей
 • Голосовой синтез
-• Генерация DALL-E 3
+• Генерация `DALL-E 3`
 
-- Спасибо за поддержку! :heart:
+Спасибо за поддержку! :heart:
 ===END===
