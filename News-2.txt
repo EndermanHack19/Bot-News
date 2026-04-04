@@ -6,7 +6,7 @@ image: https://alpha.aniland.workers.dev/images/info/update1.png
 **Грандиозное обновление!** <a:mysl:786890591535366155>
 
 Что нового:
-• Интеграция GPT-4 Turbo
+• Интеграция GPT-4 Turbo<a:mysl:786890591535366155>
 • 15 новых AI моделей
 • Голосовой синтез
 • Генерация `DALL-E 3`
