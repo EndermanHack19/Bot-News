@@ -1,7 +1,7 @@
 ===NEWS===
 title: Обновление 3.0 — AI революция
-date: 2026-01-20
-image: https://alpha.aniland.workers.dev/images/info/update1.png
+date: 2026-04-22
+image: https://cdn.discordapp.com/attachments/1491819658620436500/1498436902263591042/image.png?ex=69f1279d&is=69efd61d&hm=f34acf352db14292f90489a3eb06232c5cf1127cc107e0e30ba9a60d5137f2b6&
 ---
 **Грандиозное обновление!** <a:mysl:786890591535366155>
 
