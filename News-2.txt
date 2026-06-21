@@ -1,7 +1,7 @@
 ===NEWS===
 title: Обновление
 date: 2026-06-20
-image: https://media.discordapp.net/attachments/1424451737582047292/1448384949676675092/image.png?ex=6a36df99&is=6a358e19&hm=b1e7e74465a10f3ad76f164efc2af7c560fe486435eaf05b94695fe3d5642f04&format=webp&quality=lossless&width=1700&height=600&
+image: https://i.ibb.co/sdk3Ycqb/image.png
 ---
 ### <:1_:1476535678111191235> Обновление функционала AI
 1. Реклама для серверов без подписки
