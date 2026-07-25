@@ -1,7 +1,7 @@
 ===NEWS===
 title: Добавлено 
 date: 2026-07-23
-image: https://cdn.discordapp.com/attachments/1491819658620436500/1498436902263591042/image.png?ex=69f1279d&is=69efd61d&hm=f34acf352db14292f90489a3eb06232c5cf1127cc107e0e30ba9a60d5137f2b6&
+image: https://www.hollyland.com/wp-content/uploads/2024/08/image-541.png
 ---
 **Добавлено Лоирование и Ловушка**
 ===END===
